@@ -13,4 +13,5 @@
 
 
 ### 🏆 My stats:
-[![Daniil's GitHub stats](https://github-readme-stats.vercel.app/api?username=bl4ckm45k)](https://github-readme-stats.vercel.app/api?username=bl4ckm45k&show_icons=true)
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=bl4ckm45k&theme=ayu_mirage)
+![](http://github-profile-summary-cards.vercel.app/api/cards/stats?username=bl4ckm45k&theme=ayu_mirage)
